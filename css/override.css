@@ -12,6 +12,10 @@
 	text-align: left;
 }
 
+.white {
+	color: white;
+}
+
 code {
 	font-size: 30px !important;
 	line-height: 36px !important;
